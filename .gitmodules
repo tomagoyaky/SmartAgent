@@ -1,6 +1,0 @@
-[submodule "agent-backend"]
-	path = agent-backend
-	url = https://github.com/tomagoyaky/agent-backend.git
-[submodule "agent-frontend"]
-	path = agent-frontend
-	url = https://github.com/tomagoyaky/agent-frontend.git
